@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="name" label="Name" language="en" table="x_lego_script">
+    <sys_documentation element="u_script" label="Script" language="en" table="x_lego_lab">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>name</element>
+            <element>u_script</element>
             <help/>
             <hint/>
-            <label>Name</label>
+            <label>Script</label>
             <language>en</language>
-            <name>x_lego_script</name>
-            <plural>Names</plural>
+            <name>x_lego_lab</name>
+            <plural>Scripts</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-04-08 19:55:57</sys_created_on>
-            <sys_id>a19428a367221200dfe55bb557415ada</sys_id>
+            <sys_created_on>2018-10-20 17:38:54</sys_created_on>
+            <sys_id>c5dbefc9db512300c6be56086896195c</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Name</sys_name>
+            <sys_name>Script</sys_name>
             <sys_package display_value="Lego" source="x_lego">e1e3a86367221200dfe55bb557415ae6</sys_package>
             <sys_policy/>
             <sys_scope display_value="Lego">e1e3a86367221200dfe55bb557415ae6</sys_scope>
-            <sys_update_name>sys_documentation_x_lego_script_name_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_lego_lab_u_script_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-04-08 19:55:57</sys_updated_on>
+            <sys_updated_on>2018-10-20 17:38:54</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
